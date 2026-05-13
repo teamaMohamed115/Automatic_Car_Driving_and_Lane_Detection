@@ -3,7 +3,7 @@
 <package format="3">
   <name>lane_object_detection</name>
   <version>0.0.0</version>
-  <description>Lane and Object Detection via ROS 2 for Raspberry Pi 4.</description>
+  <description>Lane following via UNet NCNN on ROS 2 for Raspberry Pi 4.</description>
   <maintainer email="you@example.com">Your Name</maintainer>
   <license>Apache-2.0</license>
 
